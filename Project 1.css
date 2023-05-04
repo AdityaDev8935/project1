@@ -1,0 +1,36 @@
+img {
+    float: left;
+    width: 450px;
+    height: 622px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.text1,#imp {
+    font-family: 'Castoro Titling', sans-serif;
+    font-size: 24px;
+    letter-spacing: 2px;
+    margin-left: 830px;
+    padding-top: 50px;
+}
+
+.text2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-left: 850px;
+    padding-top: 40px;
+    
+}
+
+.para1 {
+   max-width: 680px;
+   margin-left: 615px;
+   padding-top: 10px;
+}
+
+.para2 {
+    max-width: 680px;
+    margin-left: 615px;
+}
+
